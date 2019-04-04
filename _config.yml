@@ -18,7 +18,7 @@ sidebar-avatar: http://kks.me/bpdCn    # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     null
+weibo_username:     5260916382
 zhihu_username:     null
 github_username:    clyz-mm
 facebook_username:  null
