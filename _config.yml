@@ -65,8 +65,8 @@ gitalk:
   clientID: 2b097468c24c0cff4d01                            #生成的clientID
   clientSecret: 4f283e911382f7b638e30b3ae41973d0c1e6787a    #生成的clientSecret
   repo: clyz-mm.github.io    #仓库名称
-  owner: clyz-mm    #github用户名
-  admin: [clyz-mm]
+  owner: clyz-mm   #github用户名
+  admin: clyz-mm
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
