@@ -14,7 +14,7 @@ tags:
 但是一如既往的骚紫色登陆界面没有出现，换来的是一个黑乎乎的shell界
 面，心想这是什么鬼？从来没有遇到过，敲了几次reboot无果后，还是老老
 实实上网查了一些资料，最终完美解决。如果你的错误提示类似是下面这样的：
-**************************************************************
+***
 fsck from util-linux 2.26.2
 
 /dev/sda5 contains a file system with errors,check forced.
@@ -30,7 +30,7 @@ The root filesystem on /dev/sda5 requires a manual fsck
 
 
 (initramfs)_
-**************************************************************
+***
 
 
 那么直接在命令中输入：fsck /dev/sda5 -fy
