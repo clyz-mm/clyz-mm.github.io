@@ -25,7 +25,7 @@ tags:
 
     Access denied for user 'root'@'localhost'
 
-!- 注：后面没有 (using password: NO) 或者  (using password: YES)
+` 注：后面没有 (using password: NO) 或者  (using password: YES)`
 
 但是使用root用户却可以正常登陆：
 
@@ -88,4 +88,4 @@ tags:
 
     mysql -u root -p
     
-## 成功！！！
+`成功！！！`
