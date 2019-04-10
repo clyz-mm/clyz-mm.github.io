@@ -11,7 +11,7 @@ tags:
     - mysql
 ---
 
-- ubuntu终端连接mysql的问题：
+
 
 用普通模式登陆时：
 
@@ -88,4 +88,4 @@ tags:
 
     mysql -u root -p
     
-# 成功！！！
+## 成功！！！
