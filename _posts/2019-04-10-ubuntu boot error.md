@@ -21,8 +21,8 @@ fsck from util-linux 2.26.2
 **（太长了，懒得全部打了）**
 ************************
 The root filesystem on /dev/sda5 requires a manual fsck
-*
-*
+***
+***
 (initramfs)_
 
 
