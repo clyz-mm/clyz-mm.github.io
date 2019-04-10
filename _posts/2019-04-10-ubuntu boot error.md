@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      ubuntu boot error
-subtitle:   /dev/sda5 contains a file system with errors,check forced.
+subtitle:   
 date:       2019-04-10
 author:     clyz
 header-img: img/post-bg-desk.jpg
