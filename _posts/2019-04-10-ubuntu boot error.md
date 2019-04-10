@@ -16,6 +16,7 @@ tags:
 实实上网查了一些资料，最终完美解决。如果你的错误提示类似是下面这样的：
 **************************************************************
 fsck from util-linux 2.26.2
+
 /dev/sda5 contains a file system with errors,check forced.
 
 
