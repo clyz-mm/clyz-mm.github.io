@@ -17,9 +17,11 @@ tags:
 **************************************************************
 fsck from util-linux 2.26.2
 /dev/sda5 contains a file system with errors,check forced.
-~~
+
+
 The root filesystem on /dev/sda5 requires a manual fsck
-~~
+
+
 (initramfs)_
 **************************************************************
 
