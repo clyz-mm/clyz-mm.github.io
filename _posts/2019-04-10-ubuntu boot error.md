@@ -17,25 +17,27 @@ tags:
 
 ***
 
-fsck from util-linux 2.26.2
+    fsck from util-linux 2.26.2
 
-/dev/sda5 contains a file system with errors,check forced.
-
-
-~(略)
+    /dev/sda5 contains a file system with errors,check forced.
 
 
-The root filesystem on /dev/sda5 requires a manual fsck
+    ~(略)
 
 
-~(略)
+    The root filesystem on /dev/sda5 requires a manual fsck
 
 
-(initramfs)_
+    ~(略)
+
+
+    (initramfs)_
 
 ***
 
 
-那么直接在命令中输入：fsck /dev/sda5 -fy
+那么直接在命令中输入：
+
+    fsck /dev/sda5 -fy
 
 等待一会，此时ubuntu已经在修复硬盘了，修复完成后命令输入reboot即可！
