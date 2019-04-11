@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      
-subtitle:   ubuntu ibus BUG解决（暂时性）
+subtitle:   ubuntu ibus BUG解决
 date:       2019-04-11
 author:     clyz
 header-img: img/post-bg-desk.jpg
@@ -9,7 +9,7 @@ catalog: 	 true
 tags:
     - ubuntu
     - iBus
----
+---  
 
 ubuntu iBus 只能选择第一个候选词问题解决：  
 终端输入：  
@@ -18,4 +18,6 @@ ubuntu iBus 只能选择第一个候选词问题解决：
 
 然后重启：  
       
-      reboot  
+      reboot    
+`治标不治本，会复发，暂时不知道怎么解决。。。`  
+
