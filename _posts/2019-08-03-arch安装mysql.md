@@ -9,12 +9,13 @@ catalog: 	 true
 tags:
     - linux
 ---  
+开始安装：  
 
-$ yay -S mysql  
-$ sudo mariadb-install-db --user=mysql --basedir=/usr --datadir=/var/lib/mysql  
+    $ yay -S mysql  
+    $ sudo mariadb-install-db --user=mysql --basedir=/usr --datadir=/var/lib/mysql  
 
-此时若初始化提示创建了帐号但是密码为空，那么执行一下语句  
+此时若初始化提示创建了帐号但是密码为空，那么执行一下语句：  
 
-$ sudo mysql_secure_installation  
+    $ sudo mysql_secure_installation  
 
 按照提示设置新的root密码即可。
