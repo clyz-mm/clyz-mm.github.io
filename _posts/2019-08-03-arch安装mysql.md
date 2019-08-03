@@ -12,6 +12,9 @@ tags:
 开始安装：  
 
     $ yay -S mysql  
+
+根据安装提示信息进行初始化：  
+
     $ sudo mariadb-install-db --user=mysql --basedir=/usr --datadir=/var/lib/mysql  
 
 此时若初始化提示创建了帐号但是密码为空，那么执行一下语句：  
