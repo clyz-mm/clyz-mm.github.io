@@ -3,7 +3,7 @@ layout:     post
 title:      ubuntu ibus BUG解决
 subtitle:   
 date:       2019-04-11
-author:     clyz
+author:     clyz-mm
 header-img: img/post-bg-desk.jpg
 catalog: 	 true
 tags:
